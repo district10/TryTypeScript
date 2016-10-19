@@ -1,0 +1,27 @@
+{
+  "name": "markdowneditor",
+  "version": "1.0.0",
+  "description": "Just an Auto Recompile.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/district10/TryTypeScript.git"
+  },
+  "keywords": [
+    "TypeScript",
+    "Markdown",
+    "Pandoc"
+  ],
+  "author": "Tang Zhixiong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/district10/TryTypeScript/issues"
+  },
+  "homepage": "https://github.com/district10/TryTypeScript#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
